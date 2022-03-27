@@ -300,4 +300,4 @@ Xray默认使用的是GO语言官方提供的TLS库，这也是几乎所有GO语
 
 6.bbrplus脚本来自：https://github.com/chiakge/Linux-NetSpeed
 
-#### 此脚本仅供交流学习使用，请勿使用此脚本行违法之事。网络非法外之地，行非法之事，必将接受法律制裁！！
+
